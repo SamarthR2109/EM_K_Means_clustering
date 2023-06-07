@@ -65,6 +65,6 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-#sammedcjain
-#4ni20is095
+#samarth ranebennur
+#4ni20is094
 #ISE 6th sem 
